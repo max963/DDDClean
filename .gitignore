@@ -1,0 +1,11 @@
+/API/bin
+/API/obj
+/Domain/bin
+/Domain/obj
+/Infra/Data/bin
+/Infra/Data/obj
+/Service/bin
+/Service/obj
+/Infra/CrossCutting/bin
+/Infra/CrossCutting/obj
+/.vscode
